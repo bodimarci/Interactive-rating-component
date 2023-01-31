@@ -12,6 +12,6 @@
 
 @layer {
   .numberlist {
-    @apply bg-[#272f3a] sm:w-12 sm:h-12 h-10 w-10 rounded-full flex justify-center items-center hover:bg-[#FB7413] duration-200 hover:text-white ;
+    @apply bg-[#272f3a] sm:w-12 sm:h-12 h-10 w-10 rounded-full flex justify-center items-center hover:bg-[#FB7413] duration-200 hover:text-white cursor-pointer
   }
 }

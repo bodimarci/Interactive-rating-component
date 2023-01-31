@@ -7,6 +7,9 @@ module.exports = {
         overpass: ["Overpass", "sans-serif"],
       },
     },
+    variants: {
+      backgroundColor: ["responsive", "hover", "focus", "active"],
+    },
   },
   plugins: [],
 };
